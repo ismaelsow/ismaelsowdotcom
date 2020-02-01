@@ -30,7 +30,7 @@ publishDir = "docs"
   authorAvatar = "images/avatar.jpg"
   authorLocation = "Earth"
   authorWebsite = "https://ismaelsow.com"
-  authorDescription = "Indie Maker - Founder @ Searchness"
+  authorDescription = "Maker - Founder @ Searchness"
 
   pageNotFoundTitle = "404 - Page not found"
 
