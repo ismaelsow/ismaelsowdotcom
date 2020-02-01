@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://ismaelsow.com/tags/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Feb 2020 13:58:44 +0100</lastBuildDate>
+    
+	<atom:link href="https://ismaelsow.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Searchness</title>
+      <link>https://ismaelsow.com/searchness/</link>
+      <pubDate>Sat, 01 Feb 2020 13:58:44 +0100</pubDate>
+      
+      <guid>https://ismaelsow.com/searchness/</guid>
+      <description>Searchness helps product teams record usability testing sessions and user interviews.
+It&amp;rsquo;s one of the most powerful user research apps on the market. It handles unmoderated and moderated sessions and offers a wealth of features that speeds up the whole research process. Available on desktop, iOS and Android.
+Check it out.</description>
+    </item>
+    
+  </channel>
+</rss>

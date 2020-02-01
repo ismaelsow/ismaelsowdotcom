@@ -1,9 +1,10 @@
-baseurl         = "/"
+baseURL         = "https://ismaelsow.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
+publishDir = "docs"
 
 [params]
   title       = "Ismaël Sow"
