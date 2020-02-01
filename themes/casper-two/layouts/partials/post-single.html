@@ -1,0 +1,53 @@
+<article class="post-card post"> 
+    {{if .Params.image}}
+    <a class="post-card-image-link" href="{{ .Permalink }}">
+      <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
+    </a>
+    {{else}}
+    <a class="post-card-image-link" href="{{ .Permalink }}">
+      <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
+    </a>    
+    {{end}}
+
+    <div class="post-card-content">
+      <a class="post-card-content-link" href="{{ .Permalink }}">
+          <header class="post-card-header">
+              {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
+              #{{$tag}} {{end}} </span>
+              {{ end }}
+              <h2 class="post-card-title">{{.Title}}</h2>
+          </header>
+      </a>
+      <section class="post-card-excerpt" style="padding: 0 25px;">
+          {{ .Content }}
+      </section>
+
+      <footer class="post-card-meta">
+          <img class="author-profile-image" src="{{ (.Params.authorAvatar | default .Site.Params.authorAvatar) | absURL}}" alt="Author" />
+          <span class="post-card-author"><a href="/">{{.Params.author | default .Site.Params.author}}</a></span>
+      </footer>
+    </div>
+</article>
+
+<!-- Begin Mailchimp Signup Form -->
+<div class="mailchimp-form">
+  <h4 ><strong>Don't miss the next article</strong> 🙂</h4>
+  <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
+  <div id="mc_embed_signup">
+    <form action="https://ismaelsow.us4.list-manage.com/subscribe/post?u=254c2d61c02c6a432c8f4b18c&amp;id=04cbff7b1b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+
+        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="mario@super.com" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="display:none" aria-hidden="true"><input type="text" name="b_254c2d61c02c6a432c8f4b18c_04cbff7b1b" tabindex="-1"></div>
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+      </div>
+    </form>
+  </div>
+  <!--End mc_embed_signup-->
+</div>
