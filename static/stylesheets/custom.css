@@ -1,3 +1,8 @@
+/* TAGS */
+.tag-template .site-nav-logo, .post-template .site-nav-logo, .page-template .site-nav-logo {
+  padding-top: 4px !important;
+}
+
 /* MAILCHIMP */
 div.mailchimp-form {
   width: 100% !important;

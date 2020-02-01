@@ -8,7 +8,7 @@ publishDir = "docs"
 
 [params]
   title       = "Ismaël Sow"
-  subtitle    = "Indie Maker - Founder @ Searchness"
+  subtitle    = "Maker - Founder @ Searchness.com"
 
   cover       = ""
   description = "Musings from Ismaël Sow."
