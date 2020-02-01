@@ -1,0 +1,56 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Ismaël Sow"
+  subtitle    = "Indie Maker - Founder @ Searchness"
+
+  cover       = ""
+  description = "Musings from Ismaël Sow."
+  metaDescription = ""
+  googleAnalytics = "UA-19450347-2"
+  customCSS = ["stylesheets/custom.css"]
+  RSSLink = ""
+
+  twitterName = "ismaelsow"
+  githubName = "ismaelsow"
+  linkedinName = "ismaelsow"
+
+  logo = "images/logo.png"
+  orgName = "Ismaël Sow"
+  orgWebsite = "https://ismaelsow.com"
+  orgDescription = "Ismaël's blog"
+
+  author = "Ismaël Sow"
+  authorAvatar = "images/avatar.jpg"
+  authorLocation = "Earth"
+  authorWebsite = "https://ismaelsow.com"
+  authorDescription = "Indie Maker - Founder @ Searchness"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Entrepreneurship"
+  url = "/tags/entrepreneurship/"
+  weight = 100
+
+
+[[menu.main]]
+  name = "Projects"
+  url = "/tags/projects/"
+  weight = 99
