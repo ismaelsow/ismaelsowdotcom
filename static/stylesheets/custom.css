@@ -3,36 +3,45 @@
   padding-top: 4px !important;
 }
 
-/* MAILCHIMP */
-div.mailchimp-form {
+/* convertkit */
+div.convertkit-form {
   width: 100% !important;
   padding: 0px 64px !important;
+  text-align: center;
 }
 
-div.mailchimp-form input[name='EMAIL'], div.mailchimp-form #mc_embed_signup input.email {
+.convertkit-form form {
+  margin: auto;
+}
+
+div.convertkit-form input[name='EMAIL'], div.convertkit-form #mc_embed_signup input.email {
   display:inline-block !important;
   margin-right:8px !important;
 }
 
-div.mailchimp-form input[name='subscribe'] {
+div.convertkit-form input[name='subscribe'] {
   background:#26a8ed !important;
   display:inline-block !important;
   width:max-content !important;
 }
 
 @media only screen and (min-width: 760px) {
-  div.mailchimp-form h4 {
-    margin-left:28px !important;
+  div.convertkit-form h4 {
+    margin-left:12px !important;
   } 
 }
 
 @media only screen and (max-width: 760px) {
-  div.mailchimp-form h4 {
+  div.convertkit-form h4 {
     margin-left:8px !important;
   } 
 
-  div.mailchimp-form input[name='EMAIL'] {
+  div.convertkit-form input[name='EMAIL'] {
     width: 100% !important;
   }
 }
-/* END MAILCHIMP */
+
+.formkit-powered-by {
+  display: none !important;
+}
+/* END convertkit */

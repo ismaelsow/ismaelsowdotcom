@@ -18,7 +18,6 @@ publishDir = "docs"
   RSSLink = ""
 
   twitterName = "ismaelsow"
-  githubName = "ismaelsow"
   linkedinName = "ismaelsow"
 
   logo = "images/logo.png"
@@ -27,7 +26,7 @@ publishDir = "docs"
   orgDescription = "Ismaël's blog"
 
   author = "Ismaël Sow"
-  authorAvatar = "images/avatar.jpg"
+  authorAvatar = "images/headshot.png"
   authorLocation = "Earth"
   authorWebsite = "https://ismaelsow.com"
   authorDescription = "Maker - Founder @ Searchness"
@@ -41,17 +40,16 @@ publishDir = "docs"
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
+  name = "About"
+  url = "/about"
+  weight = 199
 
 [[menu.main]]
-  name = "Entrepreneurship"
-  url = "/tags/entrepreneurship/"
-  weight = 100
-
+  name = "Software"
+  url = "/software"
+  weight = 198
 
 [[menu.main]]
-  name = "Projects"
-  url = "/tags/projects/"
-  weight = 99
+  name = "Book"
+  url = "/book"
+  weight = 197
