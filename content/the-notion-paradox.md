@@ -3,7 +3,7 @@ title: "The Notion Paradox: When People Love \"Bloated\" Products"
 date: 2020-06-25
 draft: false
 type: post
-image: "images/uploads/notion-template-11.png"
+image: "images/uploads/notion-team.png"
 tags: 
   - User Research
 ---
@@ -123,5 +123,5 @@ The problem with features is that adding a lot of them tends to make our softwar
 [Research note count by tag and category](https://searchness.com/projects/225/report?public)
 
 # 📕 Did You Know... I'm Writing a Book?
-It's called **Antifragile Research Repos**. If you're doing user research, you'll probably like it.
+It's called **Antifragile Research Repos**. If you're doing or consuming user research, you'll probably like it.
 [Check it out!](/book)
