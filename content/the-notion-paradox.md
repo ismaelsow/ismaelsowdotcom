@@ -1,6 +1,6 @@
 ---
 title: "The Notion Paradox: When People Love \"Bloated\" Products"
-date: 2020-06-25
+date: 2020-07-06
 draft: false
 type: post
 image: "images/uploads/notion-team.png"
@@ -15,7 +15,7 @@ Notion is a spectacular success story, a textbook rocket ship. Between 2019 and 
 The most interesting thing to me is this: **the Notion dream was not supposed to materialize**. It should have been a story of a sad, foreseeable failure. At least according to common product strategy knowledge. The standard advice is to focus on one thing and do it well. Be a scalpel, not a swiss army knife. Avoid **bloat**.
 
 ![](/images/uploads/swiss-army-knife.png)
-Image: Des Traynor, from Intercom, [explaining the dangers](https://www.youtube.com/watch?v=9AM6QQlgLSQ) of the swiss army knife approach
+Image: Des Traynor, from Intercom, [explaining the dangers](https://www.youtube.com/watch?v=9AM6QQlgLSQ) of the swiss army knife approach.
 
 It turns out, Notion looks a lot like a swiss army knife. Actually, it looks like the emperor of swiss army knives. You can take notes with it, create text documents, wikis, todo lists, spreadsheets, databases, kanban boards, calendars, galleries, websites, project management systems, CRMs, and much more! Frankly, if someone told me they were going to build this kind of *Frankentool*, I'd have said they were terminally insane.
 
@@ -68,7 +68,7 @@ When they each launched, compared to their competition, the iPod and the iPhone 
 
 Notion has been able to join this legendary club as well. How? By building upon **one unifying metaphor**: the block.
 
-In Notion, everything is a block and blocks can contain other blocks or references to other blocks. A piece of text is a block. A title is a block. A list is a block. A database is a block. Rows in a database are also blocks. Like with a set of Lego, you can start by creating basic walls and end up over time, building a whole castle, just using the same ***building block***. Notion is the Minecraft of productivity software.
+In Notion, everything is a block and blocks can contain other blocks or references to other blocks. A piece of text is a block. A title is a block. A list is a block. A database is a block. Rows in a database are also blocks. Pages are a special kind of block. Like with a set of Lego, you can start by creating basic walls and end up over time, with a big badass castle, just using the same ***building block***. Notion is the Minecraft of productivity software.
 
 This metaphor helps users start with features for which they already are have a mental model: pages, different levels of text, lists, images etc. As they get more comfortable, they can use the **same UI** to add more powerful blocks like embeds, file uploads, databases etc. With no additional cognitive load.
 
@@ -102,7 +102,7 @@ With everything being a block that can contain or reference other blocks, we see
 
 # The Takeaway
 
-In an age where a bad understanding of the lean methodology and the swankiness of the benefits over features mantra reign supreme, the Notion case teaches us that **features sell**. When done well. On paper, Notion is a nightmarish example of bloatware, in practice, mountains of users swear by it.
+In an age where a bad understanding of the lean methodology and the swankiness of the *benefits over features* mantra reign supreme, the Notion case teaches us that **features sell**, when done well. On paper Notion is a nightmarish example of bloatware, in practice mountains of users swear by it.
 
 In his [Strategy Letter IV](https://www.joelonsoftware.com/2001/03/23/strategy-letter-iv-bloatware-and-the-8020-myth/), Joel Spolsky wrote:
 
@@ -114,14 +114,10 @@ He expanded on that subject in a later essay called [Simplicity](https://www.joe
 
 > I think it is a misattribution to say, for example, that the iPod is successful because it lacks features. If you start to believe that, you’ll believe, among other things, that you should take out features to increase your product’s success. With six years of experience running my own software company, I can tell you that nothing we have ever done at Fog Creek has increased our revenue more than releasing a new version with more features. Nothing. The flow to our bottom line from new versions with new features is absolutely undeniable. It’s like gravity.
 
-The problem with features is that adding a lot of them tends to make our software harder to use. The greatest lesson Notion teaches us is that if we can find the right metaphor, it will tie our features together into a dense, usable feature matrix. If we can't find that metaphor, either we have an ill-defined problem, or we need more thinking and more research.
+The problem with features is that adding a lot of them tends to make our software harder to use. The most precious lesson we can learn from Notion is the following: **if we can find the right metaphors, they will tie our features together into a dense, usable feature matrix**. If we can't find them, then we have an ill-defined problem, or we need more thinking and more research.
 
 # Bonus Resources
 
 [Research note board](https://searchness.com/projects/225/note-board?public)
 
 [Research note count by tag and category](https://searchness.com/projects/225/report?public)
-
-# 📕 Did You Know... I'm Writing a Book?
-It's called **Antifragile Research Repos**. If you're doing or consuming user research, you'll probably like it.
-[Check it out!](/book)

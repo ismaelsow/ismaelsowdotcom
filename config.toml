@@ -48,8 +48,3 @@ publishDir = "docs"
   name = "Software"
   url = "/software"
   weight = 198
-
-[[menu.main]]
-  name = "Book"
-  url = "/book"
-  weight = 197

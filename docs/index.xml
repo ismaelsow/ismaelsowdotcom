@@ -6,7 +6,7 @@
     <description>Recent content in Ismaël&#39;s blog on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ismaelsow.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>The Notion Paradox: When People Love &#34;Bloated&#34; Products</title>
       <link>https://ismaelsow.com/the-notion-paradox/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ismaelsow.com/the-notion-paradox/</guid>
       <description>Notion is a spectacular success story, a textbook rocket ship. Between 2019 and 2020 alone, its number of users grew from one million to over four million. When the pandemic filled the startup world with a freezing terror, Notion raised $50 million in 36 hours. A deluge of fabulous reviews keeps pouring. Passioned tweets, exalted Youtube videos, grassroots meetups. That&amp;rsquo;s the stuff of dreams, for countless entrepreneurs, product managers, and designers from San Francisco to Beijing.</description>
@@ -26,8 +26,9 @@
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ismaelsow.com/about/</guid>
-      <description>Hi, I&amp;rsquo;m Ismaël. I write user research software, user research articles and I&amp;rsquo;m even writing a book about&amp;hellip; user research. I used to be a software developer, analytics consultant, and A/B testing fanatic. I worked at Yahoo! and did consulting for several French enterprise companies like Carrefour and Orange.
-I had a lot of dreams when I was young. That was a million years ago. The dinosaurs have disappeared since. Nowadays I mostly dream about UXR.</description>
+      <description>Hi, I&amp;rsquo;m Ismaël. I write user research software and articles about&amp;hellip; user research. I used to be a software developer, an analytics consultant, and an A/B testing fanatic. I worked at Yahoo! and did consulting for several French enterprise companies like Carrefour and Orange.
+I had a lot of dreams when I was young. The dinosaurs have disappeared since. 🦖 Nowadays I mostly dream about UXR.
+I&amp;rsquo;m reachable at ismael@searchness.com 👋</description>
     </item>
     
     <item>
@@ -39,16 +40,6 @@ I had a lot of dreams when I was young. That was a million years ago. The dinosa
       <description>Searchness helps product teams record usability testing sessions and user interviews. It brings your recording, note-taking and insights generation under one roof and makes you more productive.
 Available on desktop, iOS and Android.
 Check it out.</description>
-    </item>
-    
-    <item>
-      <title>🛡️ Antifragile Research Repos</title>
-      <link>https://ismaelsow.com/book/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ismaelsow.com/book/</guid>
-      <description>If you&amp;rsquo;re like most UX Researchers, you may sometimes feel like you&amp;rsquo;re selling sand in the Gobi desert. You&amp;rsquo;re selling water but people think it&amp;rsquo;s sand, and they&amp;rsquo;ve already way more sand than they need.
-How can you ensure that your research makes an impact? You have to take your barrel and spill some of the water. Let people see and taste the water for themselves. Show the insights and the raw data to your stakeholders.</description>
     </item>
     
   </channel>
