@@ -45,6 +45,6 @@ publishDir = "docs"
   weight = 199
 
 [[menu.main]]
-  name = "Software"
-  url = "/software"
+  name = "User Research Software"
+  url = "/user-research-software"
   weight = 198
