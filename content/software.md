@@ -8,7 +8,7 @@ comments = false
 share = false
 +++
 
-Searchness helps product teams record usability testing sessions and user interviews. It brings your recording, note-taking and insights generation under one roof and makes you more productive.
+Searchness is a participant-friendly user research app that brings your recording, note-taking and insights generation under one roof and makes you more productive. It makes it easy for you and your participant to connect. Participants can join a moderated session in just 3 clicks.
 
 ![](/images/uploads/searchness-screenshot.png)
 
