@@ -13,7 +13,6 @@ publishDir = "docs"
   cover       = ""
   description = "Musings from Ismaël Sow."
   metaDescription = ""
-  googleAnalytics = ""
   customCSS = ["stylesheets/custom.css"]
   RSSLink = ""
 
