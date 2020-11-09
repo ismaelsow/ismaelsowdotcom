@@ -44,4 +44,7 @@ div.convertkit-form input[name='subscribe'] {
 .formkit-powered-by {
   display: none !important;
 }
+.formkit-powered-by-convertkit-container {
+  display: none !important;
+}
 /* END convertkit */
